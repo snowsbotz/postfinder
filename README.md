@@ -1,5 +1,5 @@
 # Channel-Filter-Bot
-Sample Bot - [@YourFindBot](https://t.me/Tyrionfinderbot)
+Sample Bot - [@TyrionFinderBot](https://t.me/Tyrionfinderbot)
 
 ## How to Use & Deploy This Bot
 Watch Tutorial - [Tutorial Video]()
