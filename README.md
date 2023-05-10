@@ -17,4 +17,4 @@ connections - Get connected channels list
 
 #### Credits :-
 
-[CyniteOfficial](https://github.com/snowsbotz) - Developer.
+[RIDZY'S OFFICIAL BY SNOWSBOTZ](https://github.com/snowsbotz) - Developer.
